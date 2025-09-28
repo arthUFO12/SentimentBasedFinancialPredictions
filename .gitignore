@@ -1,0 +1,8 @@
+.env
+.vscode
+.DS_Store
+data/csv/*
+data/parquet/*
+FinancialPhraseBank-v1.0
+logs/*
+finbert_finetuned
