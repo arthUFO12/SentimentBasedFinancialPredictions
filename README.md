@@ -13,4 +13,4 @@ Logistic Regression - 91% Accuracy on test dataset
 FinBERT - 96% Accuracy on test dataset
 Given a larger amount of labeled data, I would have likely attempted to train a deep learning model as well, but 96% is good enough for my purposes
 
-## 3. **Upcoming** Sentiment Based Risk Analysis Model
+## 3. *Upcoming* Sentiment Based Risk Analysis Model
